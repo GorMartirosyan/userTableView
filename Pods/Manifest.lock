@@ -1,0 +1,16 @@
+PODS:
+  - Nominatim (0.9.2)
+
+DEPENDENCIES:
+  - Nominatim
+
+SPEC REPOS:
+  trunk:
+    - Nominatim
+
+SPEC CHECKSUMS:
+  Nominatim: 2083a9f3073c4f738c1e6669e3f3381494072cb7
+
+PODFILE CHECKSUM: 5a377bb3f85b2d31ee40e8c3f1d01ba0d91f7809
+
+COCOAPODS: 1.9.1
